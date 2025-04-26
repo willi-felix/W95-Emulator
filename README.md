@@ -1,1 +1,2 @@
-# W95-Emulator
+# W95 - Windows 95 Emulator Using Python Flask
+**Comming soon...**
